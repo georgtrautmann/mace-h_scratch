@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: maceh
+Version: 0.1.0
+Summary: MACE-H: equivariant neural network for Hamiltonian prediction
+License: MIT
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: e3nn>=0.5
+Requires-Dist: h5py
+Requires-Dist: pymatgen
+Requires-Dist: ase
+Requires-Dist: scipy
+Requires-Dist: sympy
+Requires-Dist: tqdm
+Requires-Dist: pathos
+Requires-Dist: wandb
+Requires-Dist: opt-einsum-fx
+Requires-Dist: tensorboard
+Dynamic: license-file

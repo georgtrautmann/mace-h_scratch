@@ -1,0 +1,12 @@
+numpy
+e3nn>=0.5
+h5py
+pymatgen
+ase
+scipy
+sympy
+tqdm
+pathos
+wandb
+opt-einsum-fx
+tensorboard
